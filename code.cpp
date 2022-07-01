@@ -98,6 +98,6 @@ int main(){
     for(int i=1;i<payoff.size();i++){
         cout<<payoff[i]<<" ";
     }
-    
+    return 0;
 
 }
